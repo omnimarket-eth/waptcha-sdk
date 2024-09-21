@@ -1,0 +1,9 @@
+{
+  "name": "waptcha-sdk",
+  "version": "0.1.0",
+  "description": "SDK for Waptcha",
+  "main": "index.js",
+  "author": "Ryan Martin",
+  "license": "MIT",
+  "homepage": "https://waptcha.vercel.app/"
+}
